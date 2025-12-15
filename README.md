@@ -14,4 +14,4 @@ Prerequisites: Python 3.x installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone [https://github.com/habibamamdouuh/Infusion-Pump-Simulator.git](https://github.com/habibamamdouuh/Infusion-Pump-Simulator.git)
